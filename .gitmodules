@@ -1,0 +1,3 @@
+[submodule "ntfs-3g"]
+	path = ntfs-3g
+	url = git://git.code.sf.net/p/ntfs-3g/ntfs-3g
