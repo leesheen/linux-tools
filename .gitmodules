@@ -4,3 +4,6 @@
 [submodule "grub"]
 	path = grub
 	url = git://git.savannah.gnu.org/grub.git
+[submodule "parted"]
+	path = parted
+	url = git://git.savannah.gnu.org/parted.git
