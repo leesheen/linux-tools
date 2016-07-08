@@ -1,3 +1,6 @@
 [submodule "ntfs-3g"]
 	path = ntfs-3g
 	url = git://git.code.sf.net/p/ntfs-3g/ntfs-3g
+[submodule "grub"]
+	path = grub
+	url = git://git.savannah.gnu.org/grub.git
